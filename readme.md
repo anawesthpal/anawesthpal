@@ -6,11 +6,11 @@
 
 <b> Publicitária, Empreendedora e futura Desenvolvedora Full Stack. </b>
 
-Atualmente me encontro em transição de Carreira, não estou deixando <br> para trás as experiências que me trouxeram até aqui, pelo contrário, <br> esse processo irá acontecer com muito planejamento, organização e dedicação, <br> habilidades que sempre tive por onde passei e que irão me ajudar a realizar esse sonho!
+Atualmente me encontro em transição de Carreira, não estou deixando  para trás as experiências <br> que me trouxeram até aqui, pelo contrário, esse processo irá acontecer com muito planejamento,<br> organização e dedicação, habilidades que sempre tive por onde passei e que irão me ajudar a <br>realizar esse sonho!
 
-No momento estou me dedicando ao curso Full Stack Web Developer na Growdev, <br> onde vou aprender e aplicar em projetos reais.
+No momento estou me dedicando ao curso Full Stack Web Developer na Growdev, onde vou <br>aprender e aplicar em projetos reais.
 
-<br>
+<br><hr><br>
 
 ## Tecnologias que tenho conhecimento básico 💻
 
