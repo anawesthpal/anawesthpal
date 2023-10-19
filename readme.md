@@ -1,6 +1,6 @@
  <hr>
 
-<h1 align="center">Olá, sou Ana Paula Westhpal Padilha <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Olá, sou Ana Westhpal <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 </h3>
 
