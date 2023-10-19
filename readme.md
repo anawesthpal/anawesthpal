@@ -12,12 +12,16 @@ No momento estou me dedicando ao curso Full Stack Web Developer na Growdev, onde
 
 <br>
 
-## Tecnologias que tenho conhecimento básico 💻
+## Hard Skills 💻
 
-  - JavaScript
   - Html
-  - Css
+  - JavaScript
+  - TypeScript
+  - CSS
   - Bootstrap
+  - Node.JS
+  - React.JS
+  - PostgresSQL 
 
 <br>
 
