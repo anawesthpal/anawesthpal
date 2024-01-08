@@ -21,7 +21,10 @@ No momento estou me dedicando ao curso Full Stack Web Developer na Growdev, onde
   - Bootstrap
   - Node.JS
   - React.JS
-  - PostgresSQL 
+  - PostgresSQL
+  - POO
+  - Arquitetura de software
+  - Testes de software com TDD
 
 <br>
 
