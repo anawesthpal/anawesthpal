@@ -4,9 +4,7 @@
 
 </h3>
 
-<b> Publicitária, Empreendedora e futura Desenvolvedora Full Stack. </b>
-
-Atualmente me encontro em transição de Carreira, não estou deixando  para trás as experiências que me trouxeram até aqui, <br>pelo contrário, esse processo irá acontecer com muito planejamento, organização e dedicação,<br> habilidades que sempre tive por onde passei e que irão me ajudar a realizar esse sonho!
+Como Publicitária e Empreendedora, estou em transição de carreira para me tornar uma Desenvolvedora Full Stack Web. Não estou deixando para trás minhas experiências anteriores; pelo contrário, estou planejando e me dedicando a esse novo caminho. Essas experiências são a base sólida para essa mudança. Além disso, sou uma amante de café, adoro ler e sou mãe de 3 gatos e algumas plantas. Continuo seguindo meus sonhos e aproveitando cada etapa dessa jornada!
 
 <br>
 
@@ -16,8 +14,3 @@ Atualmente me encontro em transição de Carreira, não estou deixando  para tr�
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/anawesthpal)
  
 <hr>
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
