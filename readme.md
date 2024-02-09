@@ -5,3 +5,4 @@ Como Publicitária e Empreendedora, estou em transição de carreira para me tor
 
 
 
+src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
