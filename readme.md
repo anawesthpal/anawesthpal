@@ -5,4 +5,4 @@ Como Publicitária e Empreendedora, estou em transição de carreira para me tor
 
 
 
-![Snake animation](https://github.com/{{anawesthpal}}/{{anaweshpal}}/blob/output/github-contribution-grid-snake.svg)
+![Snake_animation](https://github.com/{{anawesthpal}}/{{anawesthpal}}/blob/output/github-contribuition-rid-snake.svg)
